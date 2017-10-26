@@ -1,0 +1,12 @@
+V3 7
+FL E:/XilinxProgram/2to1mux/fourto1.vhd 2017/10/24.23:56:59 I.24
+EN work/fourto1 1508869714         FL E:/XilinxProgram/2to1mux/fourto1.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/fourto1/Behavioral 1508869715 FL E:/XilinxProgram/2to1mux/fourto1.vhd \
+      EN work/fourto1 1508869714 CP mux
+FL E:/XilinxProgram/2to1mux/mux.vhd 2017/10/24.23:07:52 I.24
+EN work/mux 1508869630             FL E:/XilinxProgram/2to1mux/mux.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/mux/Behavioral 1508869631  FL E:/XilinxProgram/2to1mux/mux.vhd EN work/mux 1508869630

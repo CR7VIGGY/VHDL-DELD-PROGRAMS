@@ -1,0 +1,3 @@
+MODULE wave
+SUBMODULE fourto1
+INSTANCE UUT

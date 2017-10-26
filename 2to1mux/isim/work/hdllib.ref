@@ -1,0 +1,6 @@
+EN wave NULL E:/XilinxProgram/2to1mux/wave.vhw sub00/vhpl02 1508869944
+AR mux behavioral E:/XilinxProgram/2to1mux/mux.vhd sub00/vhpl01 1508869821
+AR wave testbench_arch E:/XilinxProgram/2to1mux/wave.vhw sub00/vhpl03 1508869945
+AR fourto1 behavioral E:/XilinxProgram/2to1mux/fourto1.vhd sub00/vhpl05 1508869823
+EN mux NULL E:/XilinxProgram/2to1mux/mux.vhd sub00/vhpl00 1508869820
+EN fourto1 NULL E:/XilinxProgram/2to1mux/fourto1.vhd sub00/vhpl04 1508869822

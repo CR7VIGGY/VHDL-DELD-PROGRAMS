@@ -1,0 +1,1 @@
+xst -ise "E:/XilinxProgram/2to1mux/2to1mux" -intstyle ise -ifn fourto1.xst -ofn fourto1.syr

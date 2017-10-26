@@ -1,0 +1,4 @@
+AR mux behavioral E:/XilinxProgram/2to1mux/mux.vhd sub00/vhpl01 1508869631
+AR fourto1 behavioral E:/XilinxProgram/2to1mux/fourto1.vhd sub00/vhpl03 1508869715
+EN mux NULL E:/XilinxProgram/2to1mux/mux.vhd sub00/vhpl00 1508869630
+EN fourto1 NULL E:/XilinxProgram/2to1mux/fourto1.vhd sub00/vhpl02 1508869714

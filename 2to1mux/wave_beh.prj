@@ -1,0 +1,3 @@
+vhdl work "mux.vhd"
+vhdl work "fourto1.vhd"
+vhdl work "wave.vhw"
