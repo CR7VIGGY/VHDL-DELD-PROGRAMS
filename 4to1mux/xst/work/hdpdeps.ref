@@ -1,0 +1,6 @@
+V3 3
+FL E:/XilinxProgram/4to1mux/mux.vhd 2017/10/24.13:50:21 I.24
+EN work/mux 1508833306             FL E:/XilinxProgram/4to1mux/mux.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/mux/Behavioral 1508833307  FL E:/XilinxProgram/4to1mux/mux.vhd EN work/mux 1508833306
