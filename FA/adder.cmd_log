@@ -1,0 +1,3 @@
+xst -ise "E:/XilinxProgram/FA/FA" -intstyle ise -ifn adder.xst -ofn adder.syr
+xst -ise "E:/XilinxProgram/FA/FA" -intstyle ise -ifn adder.xst -ofn adder.syr
+xst -ise "E:/XilinxProgram/FA/FA" -intstyle ise -ifn adder.xst -ofn adder.syr

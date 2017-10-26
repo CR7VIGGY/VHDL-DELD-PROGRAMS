@@ -1,0 +1,2 @@
+xst -ise "E:/XilinxProgram/behvFA/behvFA" -intstyle ise -ifn code.xst -ofn code.syr
+xst -ise "E:/XilinxProgram/behvFA/behvFA" -intstyle ise -ifn code.xst -ofn code.syr

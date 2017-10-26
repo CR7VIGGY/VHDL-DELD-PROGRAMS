@@ -1,0 +1,1 @@
+xst -ise "E:/XilinxProgram/FA/FA" -intstyle ise -ifn HA.xst -ofn HA.syr
