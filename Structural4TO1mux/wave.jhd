@@ -1,0 +1,3 @@
+MODULE wave
+SUBMODULE structmuxuse2to1
+INSTANCE UUT

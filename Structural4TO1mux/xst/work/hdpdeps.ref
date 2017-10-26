@@ -1,0 +1,9 @@
+V3 3
+FL E:/XilinxProgram/Structural4TO1mux/structmuxuse2to1.vhd 2017/10/24.15:29:24 I.24
+EN work/structmuxuse2to1 1508840262 \
+      FL E:/XilinxProgram/Structural4TO1mux/structmuxuse2to1.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/structmuxuse2to1/Behavioral 1508840263 \
+      FL E:/XilinxProgram/Structural4TO1mux/structmuxuse2to1.vhd \
+      EN work/structmuxuse2to1 1508840262

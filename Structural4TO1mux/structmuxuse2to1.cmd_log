@@ -1,0 +1,4 @@
+xst -ise "E:/XilinxProgram/Structural4TO1mux/Structural4TO1mux" -intstyle ise -ifn structmuxuse2to1.xst -ofn structmuxuse2to1.syr
+xst -ise "E:/XilinxProgram/Structural4TO1mux/Structural4TO1mux" -intstyle ise -ifn structmuxuse2to1.xst -ofn structmuxuse2to1.syr
+xst -ise "E:/XilinxProgram/Structural4TO1mux/Structural4TO1mux" -intstyle ise -ifn structmuxuse2to1.xst -ofn structmuxuse2to1.syr
+xst -ise "E:/XilinxProgram/Structural4TO1mux/Structural4TO1mux" -intstyle ise -ifn structmuxuse2to1.xst -ofn structmuxuse2to1.syr
